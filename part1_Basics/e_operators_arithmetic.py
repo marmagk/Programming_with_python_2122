@@ -39,7 +39,7 @@ print(result)
 
 
 # Lastly, there are additional arithmetic functions
-result = 20 % 8
+result = 10 % 8
 print('............................')
 print('If you want to know the reminder value when dividing two numbers you should use the modulus operator - % -')
 print('The modulus result of - 20 % 8- is:')
